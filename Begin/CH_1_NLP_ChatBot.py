@@ -1,5 +1,5 @@
 # Importing TextBlob to help the chatbot understand language nuances.
-
+from textblob import TextBlob
 
 # Defining the ChatBot class for interaction.
 
